@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "MyLibrary\MyLi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MyLibrary.Tests", "MyLibrary.Tests", "{94AD2D5B-580B-35F1-D8EC-912408ECE05D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mylibrary.Tests", "MyLibrary.Tests\Mylibrary.Tests.csproj", "{5EE0CA1C-AAB2-4EAB-93F8-463B021EA520}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary.Tests", "MyLibrary.Tests\MyLibrary.Tests.csproj", "{5EE0CA1C-AAB2-4EAB-93F8-463B021EA520}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
